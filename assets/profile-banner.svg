@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">WOOSANG YOON · Game, XR and Web Developer</title>
+  <desc id="desc">남색 배경에 청록색과 보라색 기하학 도형을 배치한 개발자 프로필 배너</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#101b32"/>
+      <stop offset="1" stop-color="#202348"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect x="60" y="66" width="52" height="5" rx="2.5" fill="url(#accent)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="60" y="120" fill="#5eead4" font-size="17" font-weight="600" letter-spacing="4">BUILD · PLAY · LEARN</text>
+    <text x="57" y="188" fill="#f8fafc" font-size="57" font-weight="700" letter-spacing="1">WOOSANG YOON</text>
+    <text x="60" y="231" fill="#cbd5e1" font-size="21" letter-spacing="2">GAME / XR / WEB</text>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="2.5">
+    <path d="M950 56l82 47v95l-82 47-82-47v-95z"/>
+    <path d="M868 103l82 48 82-48M950 151v94"/>
+    <circle cx="950" cy="151" r="105" stroke-opacity=".25"/>
+    <path d="M1090 82l24 24-24 24M810 172l-24 24 24 24" stroke-opacity=".65"/>
+  </g>
+  <circle cx="1032" cy="103" r="5" fill="#a78bfa"/>
+  <circle cx="868" cy="198" r="5" fill="#5eead4"/>
+</svg>
