@@ -72,10 +72,11 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 
 현재 개발하고 있는 프로젝트입니다.
 
-| 프로젝트 | 내용 | 기술 |
-| :--- | :--- | :--- |
-| [ModooTraditionalPlay](https://github.com/ssa25879/ModooTraditionalPlay) | 장구 리듬·사방치기, 체험 공간 이동과 문 상호작용을 다루는 한국 전통놀이 VR 협업 프로젝트 | Unity · C# · XR Interaction Toolkit |
-| [ait-FridgePick](https://github.com/ssa25879/ait-FridgePick) | 보유 재료와 난이도·재료 일치율 조건으로 레시피를 추천하는 토스 미니앱 | React · TypeScript · Vite · Apps in Toss |
+| 프로젝트 | 내용 | 기술 | 비고 |
+| :--- | :--- | :--- | :--- |
+| [URP_ZombieGame](https://github.com/ssa25879/URP_ZombieGame) | Unity 기반 좀비 게임 제작과 게임 개발 학습 | Unity · C# · URP | [SideProject](https://github.com/ssa25879/URP_ZombieGame/tree/SideProject): 게임 제작<br>[main](https://github.com/ssa25879/URP_ZombieGame/tree/main): 게임 제작 학습 |
+| [ModooTraditionalPlay](https://github.com/ssa25879/ModooTraditionalPlay) | 장구 리듬·사방치기, 체험 공간 이동과 문 상호작용을 다루는 한국 전통놀이 VR 협업 프로젝트 | Unity · C# · XR Interaction Toolkit | — |
+| [ait-FridgePick](https://github.com/ssa25879/ait-FridgePick) | 보유 재료와 난이도·재료 일치율 조건으로 레시피를 추천하는 토스 미니앱 | React · TypeScript · Vite · Apps in Toss | — |
 
 ---
 
