@@ -52,21 +52,14 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 <a href="https://github.com/ssa25879/VRRhythmGame">저장소 →</a> · <a href="https://github.com/ssa25879/VRRhythmGame/blob/main/Docs/Portfolio.md">포트폴리오</a> · <a href="https://youtu.be/3g2RF_wvLGw">시연 영상</a>
 </td>
 <td width="50%" valign="top">
-<h3>🏮 ModooTraditionalPlay</h3>
-<p>한국 전통놀이를 경험하는 <b>VR 체험 협업 프로젝트</b></p>
-<p>장구 리듬·사방치기 콘텐츠, 체험 공간 이동과 문 상호작용</p>
-<p><code>Unity</code> <code>C#</code> <code>XR Interaction Toolkit</code></p>
-<a href="https://github.com/ssa25879/ModooTraditionalPlay">저장소 →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <h3>🛡️ BlockDodge</h3>
 <p>탄막을 피하며 오래 살아남는 <b>모바일 생존 회피 게임</b></p>
 <p>조이스틱 이동, 무적 회피·쿨다운, 시간 기반 난이도와 최고 기록</p>
 <p><code>Unity</code> <code>C#</code> <code>URP</code> <code>Android</code></p>
 <a href="https://github.com/ssa25879/BlockDodge">저장소 →</a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>⚡ 2DFlatformerGame</h3>
 <p>마우스 방향 대시로 진행하는 <b>2D 플랫포머 프로토타입</b></p>
@@ -74,8 +67,6 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 <p><code>Unity</code> <code>C#</code> <code>2D Tilemap</code></p>
 <a href="https://github.com/ssa25879/2DFlatformerGame">저장소 →</a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>🐻 ARBook · VRBook 저장소</h3>
 <p>이미지를 인식해 3D 동물을 표시하는 <b>Android AR 앱</b></p>
@@ -83,21 +74,14 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 <p><code>Unity</code> <code>C#</code> <code>AR Foundation</code> <code>Android</code></p>
 <a href="https://github.com/ssa25879/VRBook">저장소 →</a> · <a href="https://github.com/ssa25879/VRBook/blob/main/Assets/Scripts/README.md">구현 설명</a>
 </td>
-<td width="50%" valign="top">
-<h3>🔎 UsingAI-ImageSearchApp</h3>
-<p>UI Toolkit으로 만든 <b>세로형 이미지 검색 UI 앱</b></p>
-<p>Pixabay·Mock 검색 전환, 비동기 썸네일 로딩, 레이어 분리와 테스트</p>
-<p><code>Unity</code> <code>C#</code> <code>UI Toolkit</code> <code>UniTask</code></p>
-<a href="https://github.com/ssa25879/UsingAI-ImageSearchApp">저장소 →</a>
-</td>
 </tr>
 </table>
 
-## 🌐 웹 · 미니앱 프로젝트
+## 🌐 앱 · 웹 프로젝트
 
 | 프로젝트 | 내용 | 기술 |
 | :--- | :--- | :--- |
-| [🥗 ait-FridgePick](https://github.com/ssa25879/ait-FridgePick) | 보유 재료와 난이도·재료 일치율 조건으로 레시피를 추천하는 토스 미니앱 | React · TypeScript · Vite · Apps in Toss |
+| [🔎 UsingAI-ImageSearchApp](https://github.com/ssa25879/UsingAI-ImageSearchApp) | Pixabay·Mock 검색 전환과 비동기 썸네일 로딩을 갖춘 세로형 이미지 검색 UI 앱 | Unity · C# · UI Toolkit · UniTask |
 | [📘 capstone](https://github.com/ssa25879/capstone) | React 기반 캡스톤 프로젝트 | React · JavaScript |
 | [🧩 react_practice](https://github.com/ssa25879/react_practice) | React 학습 프로젝트 | React · JavaScript |
 
@@ -112,6 +96,15 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 | Java | [polytech_java2](https://github.com/ssa25879/polytech_java2) | 수업·과제용 포크 저장소 |
 | C# | [csharp-sourse-2026](https://github.com/ssa25879/csharp-sourse-2026) | 객체지향, 프로퍼티, 상속과 다형성 |
 | 디버깅 | [csharp-debug-exam](https://github.com/ssa25879/csharp-debug-exam) | 오류 분석과 수정 실습용 저장소 |
+
+## 🚧 현재 작업 중
+
+현재 개발하고 있는 프로젝트입니다.
+
+| 프로젝트 | 내용 | 기술 |
+| :--- | :--- | :--- |
+| [🏮 ModooTraditionalPlay](https://github.com/ssa25879/ModooTraditionalPlay) | 장구 리듬·사방치기, 체험 공간 이동과 문 상호작용을 다루는 한국 전통놀이 VR 협업 프로젝트 | Unity · C# · XR Interaction Toolkit |
+| [🥗 ait-FridgePick](https://github.com/ssa25879/ait-FridgePick) | 보유 재료와 난이도·재료 일치율 조건으로 레시피를 추천하는 토스 미니앱 | React · TypeScript · Vite · Apps in Toss |
 
 ---
 
