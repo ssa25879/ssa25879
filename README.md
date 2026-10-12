@@ -44,6 +44,7 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 
 | 프로젝트 | 내용 | 기술 | 비고 |
 | :--- | :--- | :--- | :--- |
+| [UrbanSurvival](https://github.com/ssa25879/UrbanSurvival) | 탑뷰 좀비 생존 슈터. 무기 4종, 보스·무한 모드와 보스 연습, Android 자동 조준·트윈 스틱 조작 | Unity · C# · URP | PC · Android · **업데이트 진행중**<br>기존 URP_ZombieGame을 업데이트한 공개용 저장소 |
 | [VRRhythmGame](https://github.com/ssa25879/VRRhythmGame) | 세이버로 노트를 베는 VR 리듬 게임. 방향·속도 판정, 점수·콤보·HP, 스테이지 선택과 결과 화면 | Unity · C# · OpenXR | Meta Quest 3S · [포트폴리오](https://github.com/ssa25879/VRRhythmGame/blob/main/Docs/Portfolio.md) · [시연 영상](https://youtu.be/3g2RF_wvLGw) |
 | [BlockDodge](https://github.com/ssa25879/BlockDodge) | 탄막을 피하는 생존 회피 게임. 조이스틱 이동, 무적 회피·쿨다운, 시간 기반 난이도와 최고 기록 | Unity · C# · URP | Android |
 | [2DFlatformerGame](https://github.com/ssa25879/2DFlatformerGame) | 마우스 방향 대시 중심 2D 플랫포머. 대시 재충전, 함정·목표 판정, 스테이지 선택과 순차 잠금 해제 | Unity · C# · 2D Tilemap | 프로토타입 |
@@ -74,7 +75,6 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 
 | 프로젝트 | 내용 | 기술 | 비고 |
 | :--- | :--- | :--- | :--- |
-| [UrbanSurvival](https://github.com/ssa25879/UrbanSurvival) | 탑뷰 좀비 생존 슈터. 무기 4종, 보스·무한 모드와 보스 연습, Android 자동 조준·트윈 스틱 조작 | Unity · C# · URP | PC · Android · 기존 URP_ZombieGame을 업데이트한 공개용 저장소 |
 | [ModooTraditionalPlay](https://github.com/ssa25879/ModooTraditionalPlay) | 장구 리듬·사방치기, 체험 공간 이동과 문 상호작용을 다루는 한국 전통놀이 VR 협업 프로젝트 | Unity · C# · XR Interaction Toolkit | — |
 | [냉털픽 (ait-FridgePick)](https://github.com/ssa25879/ait-FridgePick) | 보유 재료로 주재료 매칭률 60% 이상인 레시피를 추천하고 부족한 재료를 표시하는 토스 미니앱 | React · TypeScript · Vite · Toss TDS · Apps in Toss | 식약처·EPIS 레시피 1,359개 · 정적 카탈로그 |
 
