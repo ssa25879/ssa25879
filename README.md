@@ -16,7 +16,7 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 
 ## 🧭 이런 프로젝트를 만들고 있습니다
 
-- **게임** — VR 리듬 액션, 모바일 생존 회피, 2D 대시 플랫포머
+- **게임** — VR 리듬 액션, 좀비 생존 슈터, 모바일 생존 회피, 2D 대시 플랫포머
 - **AR·VR** — 이미지 인식 동물 앱과 한국 전통놀이 VR 체험
 - **앱·웹** — Unity 이미지 검색 UI와 React 기반 토스 미니앱
 
@@ -53,7 +53,7 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 
 | 프로젝트 | 내용 | 기술 | 비고 |
 | :--- | :--- | :--- | :--- |
-| [UsingAI-ImageSearchApp](https://github.com/ssa25879/UsingAI-ImageSearchApp) | Pixabay·Mock 검색 전환과 비동기 썸네일 로딩을 갖춘 세로형 이미지 검색 UI 앱 | Unity · C# · UI Toolkit · UniTask | — |
+| [UsingAI-ImageSearchApp](https://github.com/ssa25879/UsingAI-ImageSearchApp) | Pixabay·Mock 검색 전환과 비동기 썸네일 로딩을 갖춘 세로형 이미지 검색 UI 앱 | Unity · C# · UI Toolkit · UniTask | Editor 미리보기 · 모바일 빌드는 Mock 검색 |
 | [포트폴리오 웹사이트](https://github.com/ssa25879/ssa25879.github.io) | 자기소개와 프로젝트를 정리한 개인 포트폴리오. 프로젝트 상세 보기, 반응형 레이아웃과 다크모드 | HTML · CSS · JavaScript | [사이트 보기](https://ssa25879.github.io/) |
 
 ## 📚 학습 기록
@@ -74,9 +74,9 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 
 | 프로젝트 | 내용 | 기술 | 비고 |
 | :--- | :--- | :--- | :--- |
-| [URP_ZombieGame](https://github.com/ssa25879/URP_ZombieGame) | Unity 기반 좀비 게임 제작과 게임 개발 학습 | Unity · C# · URP | [SideProject](https://github.com/ssa25879/URP_ZombieGame/tree/SideProject): 게임 제작<br>[main](https://github.com/ssa25879/URP_ZombieGame/tree/main): 게임 제작 학습 |
+| [UrbanSurvival](https://github.com/ssa25879/UrbanSurvival) | 탑뷰 좀비 생존 슈터. 무기 4종, 보스·무한 모드와 보스 연습, Android 자동 조준·트윈 스틱 조작 | Unity · C# · URP | PC · Android · 기존 URP_ZombieGame을 업데이트한 공개용 저장소 |
 | [ModooTraditionalPlay](https://github.com/ssa25879/ModooTraditionalPlay) | 장구 리듬·사방치기, 체험 공간 이동과 문 상호작용을 다루는 한국 전통놀이 VR 협업 프로젝트 | Unity · C# · XR Interaction Toolkit | — |
-| [ait-FridgePick](https://github.com/ssa25879/ait-FridgePick) | 보유 재료와 난이도·재료 일치율 조건으로 레시피를 추천하는 토스 미니앱 | React · TypeScript · Vite · Apps in Toss | — |
+| [냉털픽 (ait-FridgePick)](https://github.com/ssa25879/ait-FridgePick) | 보유 재료로 주재료 매칭률 60% 이상인 레시피를 추천하고 부족한 재료를 표시하는 토스 미니앱 | React · TypeScript · Vite · Toss TDS · Apps in Toss | 식약처·EPIS 레시피 1,359개 · 정적 카탈로그 |
 
 ---
 
