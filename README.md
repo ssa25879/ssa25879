@@ -50,6 +50,15 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 | [2DFlatformerGame](https://github.com/ssa25879/2DFlatformerGame) | 마우스 방향 대시 중심 2D 플랫포머. 대시 재충전, 함정·목표 판정, 스테이지 선택과 순차 잠금 해제 | Unity · C# · 2D Tilemap | 프로토타입 |
 | [ARBook](https://github.com/ssa25879/VRBook) | 이미지 인식으로 3D 동물 표시. 트래킹 상태에 따른 표시·숨김, 터치 시 울음소리 재생 | Unity · C# · AR Foundation | Android · 저장소명: VRBook · [구현 설명](https://github.com/ssa25879/VRBook/blob/main/Assets/Scripts/README.md) |
 
+## 🚀 출시한 앱
+
+토스에서 출시한 미니앱입니다.
+
+| 프로젝트 | 내용 | 기술 | 비고 |
+| :--- | :--- | :--- | :--- |
+| [냉털픽 (ait-FridgePick)](https://github.com/ssa25879/ait-FridgePick) | 보유 재료로 주재료 매칭률 60% 이상인 레시피를 추천하고 부족한 재료를 표시하는 토스 미니앱 | React · TypeScript · Vite · Toss TDS · Apps in Toss | **출시 완료** · 식약처·EPIS 레시피 1,359개<br>레시피 수 확인: 2026-10-13 |
+| [턴캘 (ait-TurnCal)](https://github.com/ssa25879/ait-TurnCal) | 교대근무 반복 패턴과 기준일로 월간 근무표를 자동 계산하고 날짜별 메모·공휴일을 표시하는 토스 미니앱 | React · TypeScript · Vite · Toss TDS · Apps in Toss | **출시 완료** · 데이터 기기 내 저장 |
+
 ## 🌐 앱 · 웹 프로젝트
 
 | 프로젝트 | 내용 | 기술 | 비고 |
@@ -76,7 +85,6 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 | 프로젝트 | 내용 | 기술 | 비고 |
 | :--- | :--- | :--- | :--- |
 | [ModooTraditionalPlay](https://github.com/ssa25879/ModooTraditionalPlay) | 장구 리듬·사방치기, 체험 공간 이동과 문 상호작용을 다루는 한국 전통놀이 VR 협업 프로젝트 | Unity · C# · XR Interaction Toolkit | 현재 담당: 메인 로비 · 로비 내 상호작용 |
-| [냉털픽 (ait-FridgePick)](https://github.com/ssa25879/ait-FridgePick) | 보유 재료로 주재료 매칭률 60% 이상인 레시피를 추천하고 부족한 재료를 표시하는 토스 미니앱 | React · TypeScript · Vite · Toss TDS · Apps in Toss | 식약처·EPIS 레시피 1,359개 · 정적 카탈로그<br>레시피 수 확인: 2026-10-12 |
 
 ---
 
