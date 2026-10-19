@@ -18,7 +18,7 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 
 - **게임** — VR 리듬 액션, 좀비 생존 슈터, 모바일 생존 회피, 2D 대시 플랫포머
 - **AR·VR** — 이미지 인식 동물 앱과 한국 전통놀이 VR 체험
-- **앱·웹** — Unity 이미지 검색 UI와 React 기반 토스 미니앱
+- **앱·웹** — 리뷰 기반 RAG 챗봇, React 기반 토스 미니앱과 Unity 이미지 검색 UI
 
 ## 🛠️ 프로젝트에서 사용하는 기술
 
@@ -32,13 +32,17 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 ![AR Foundation](https://img.shields.io/badge/AR_Foundation-00897B?style=flat-square)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**웹 · 미니앱**
+**웹 · AI · 미니앱**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Apps in Toss](https://img.shields.io/badge/Apps_in_Toss-0064FF?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ## 🎮 게임 · AR · VR 프로젝트
 
@@ -57,12 +61,13 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 | 프로젝트 | 내용 | 기술 | 비고 |
 | :--- | :--- | :--- | :--- |
 | [냉털픽 (ait-FridgePick)](https://github.com/ssa25879/ait-FridgePick) | 보유 재료로 주재료 매칭률 60% 이상인 레시피를 추천하고 부족한 재료를 표시하는 토스 미니앱 | React · TypeScript · Vite · Toss TDS · Apps in Toss | **출시 완료** · 식약처·EPIS 레시피 1,359개<br>레시피 수 확인: 2026-10-13 |
-| [턴캘 (ait-TurnCal)](https://github.com/ssa25879/ait-TurnCal) | 교대근무 반복 패턴과 기준일로 월간 근무표를 자동 계산하고 날짜별 메모·공휴일을 표시하는 토스 미니앱 | React · TypeScript · Vite · Toss TDS · Apps in Toss | **출시 완료** · 데이터 기기 내 저장 |
+| [턴캘 (ait-TurnCal)](https://github.com/ssa25879/ait-TurnCal) | 교대근무 패턴으로 월간 근무표 자동 계산. 오늘·내일 근무 요약, 날짜별 메모·공휴일 표시<br>근무 유형 이름·약어·색 편집, 이전 패턴 불러오기와 월간 근무표 PNG·캘린더 파일(.ics) 내보내기 | React · TypeScript · Vite · Toss TDS · Apps in Toss | **v1.2 출시 완료 (2026-10-19)** · 데이터 기기 내 저장 |
 
 ## 🌐 앱 · 웹 프로젝트
 
 | 프로젝트 | 내용 | 기술 | 비고 |
 | :--- | :--- | :--- | :--- |
+| [쇼핑 리뷰 AI 분석기 (review-chatbot)](https://github.com/ssa25879/review-chatbot) | 상품 리뷰를 의미 검색해 질문에 답하고 근거 리뷰를 함께 보여 주는 RAG 챗봇. 리뷰·대화 기록 저장 | Next.js · React · TypeScript · LangChain · Pinecone · Supabase | Mock·실데이터 모드 지원<br>Gemini 또는 로컬 Ollama로 답변 생성 |
 | [UsingAI-ImageSearchApp](https://github.com/ssa25879/UsingAI-ImageSearchApp) | Pixabay·Mock 검색 전환과 비동기 썸네일 로딩을 갖춘 세로형 이미지 검색 UI 앱 | Unity · C# · UI Toolkit · UniTask | Editor 검색 UI 구현 · 모바일 배포 준비 필요<br>모바일 빌드는 Mock 검색 |
 | [포트폴리오 웹사이트](https://github.com/ssa25879/ssa25879.github.io) | 자기소개와 프로젝트를 정리한 개인 포트폴리오. 프로젝트 상세 보기, 반응형 레이아웃과 다크모드 | HTML · CSS · JavaScript | [사이트 보기](https://ssa25879.github.io/) |
 
