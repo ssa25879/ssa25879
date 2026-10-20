@@ -60,7 +60,7 @@ Unity로 게임과 AR·VR 경험을 만들고, 웹과 앱으로 개발 영역을
 
 | 프로젝트 | 내용 | 기술 | 비고 |
 | :--- | :--- | :--- | :--- |
-| [냉털픽 (ait-FridgePick)](https://github.com/ssa25879/ait-FridgePick) | 보유 재료로 주재료 매칭률 60% 이상인 레시피를 추천하고 부족한 재료를 표시하는 토스 미니앱 | React · TypeScript · Vite · Toss TDS · Apps in Toss | **출시 완료** · 식약처·EPIS 레시피 1,359개<br>레시피 수 확인: 2026-10-13 |
+| [냉털픽 (ait-FridgePick)](https://github.com/ssa25879/ait-FridgePick) | 보유 재료로 주재료 매칭률 60% 이상인 레시피를 추천하고 부족한 재료를 표시하는 토스 미니앱 (현재 저장소 수정작업중)| React · TypeScript · Vite · Toss TDS · Apps in Toss | **출시 완료** · 식약처·EPIS 레시피 1,359개<br>레시피 수 확인: 2026-10-13 |
 | [턴캘 (ait-TurnCal)](https://github.com/ssa25879/ait-TurnCal) | 교대근무 패턴으로 월간 근무표 자동 계산. 오늘·내일 근무 요약, 날짜별 메모·공휴일 표시<br>근무 유형 이름·약어·색 편집, 이전 패턴 불러오기와 월간 근무표 PNG·캘린더 파일(.ics) 내보내기 | React · TypeScript · Vite · Toss TDS · Apps in Toss | **v1.2 출시 완료 (2026-10-19)** · 데이터 기기 내 저장 |
 
 ## 🌐 앱 · 웹 프로젝트
